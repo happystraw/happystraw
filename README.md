@@ -8,7 +8,7 @@
 
 ## 🛠️ Tool
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
-![JetBrains](https://img.shields.io/badge/-JetBrains-black?style=flat-square&logo=jetbrains)
+![JetBrains](https://img.shields.io/badge/-JetBrains-black?logo=jetbrains)
 
 ## 🧲 Lang
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
