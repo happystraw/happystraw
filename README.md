@@ -1,6 +1,6 @@
 ## Hey there, I'm HappyStraw
 
-- 🔭 I’m currently working on PHP, Golang
+🔭 I’m currently working on PHP, Golang
 
 ## 🖥️ OS
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-black?logo=archlinux)
