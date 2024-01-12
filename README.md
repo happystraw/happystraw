@@ -14,9 +14,11 @@
 ![Golang](https://img.shields.io/badge/-Golang-black?logo=go)
 ![C](https://img.shields.io/badge/-C-black?logo=c)
 
+<!-- 
 ---
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=happystraw&count_private=true&include_all_commits=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happystraw&layout=compact&langs_count=8&theme=dark" />
 </div>
+-->
